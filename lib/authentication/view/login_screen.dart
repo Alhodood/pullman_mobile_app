@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:pennisula_group/Home/screen/home_screen.dart';
-import 'package:pennisula_group/const/app_typography.dart';
-import 'package:pennisula_group/const/router/routes.dart';
-import 'package:pennisula_group/const/ui_utils/custom_colors.dart';
-import 'package:pennisula_group/housekeeper/Home/view/dashboard.dart';
+import 'package:pullman_mobile_app/Home/screen/home_screen.dart';
+import 'package:pullman_mobile_app/const/app_typography.dart';
+import 'package:pullman_mobile_app/const/router/routes.dart';
+import 'package:pullman_mobile_app/const/ui_utils/custom_colors.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/view/dashboard.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});

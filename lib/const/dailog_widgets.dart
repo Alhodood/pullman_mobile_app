@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pennisula_group/const/app_typography.dart';
+import 'package:pullman_mobile_app/const/app_typography.dart';
 
 import '../const/router/routes.dart';
 

@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:pennisula_group/const/ui_utils/custom_colors.dart';
+import 'package:pullman_mobile_app/const/ui_utils/custom_colors.dart';
 
 class CustomBottomSheetWidget extends StatelessWidget {
   final List<Options>? options;

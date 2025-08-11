@@ -5,9 +5,9 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_pdfview/flutter_pdfview.dart';
-import 'package:pennisula_group/Home/controller/emirate_id_controller.dart';
-import 'package:pennisula_group/const/app_typography.dart';
-import 'package:pennisula_group/const/router/routes.dart';
+import 'package:pullman_mobile_app/Home/controller/emirate_id_controller.dart';
+import 'package:pullman_mobile_app/const/app_typography.dart';
+import 'package:pullman_mobile_app/const/router/routes.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

@@ -3,12 +3,12 @@ import 'dart:io';
 import 'package:path/path.dart' as path;
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:pennisula_group/const/app_typography.dart';
-import 'package:pennisula_group/const/router/routes.dart';
-import 'package:pennisula_group/const/space_helpper.dart';
-import 'package:pennisula_group/housekeeper/Home/model/my_task_reposnse_model.dart';
-import 'package:pennisula_group/housekeeper/Home/view/dashboard.dart';
-import 'package:pennisula_group/housekeeper/controller/task_controller.dart';
+import 'package:pullman_mobile_app/const/app_typography.dart';
+import 'package:pullman_mobile_app/const/router/routes.dart';
+import 'package:pullman_mobile_app/const/space_helpper.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/model/my_task_reposnse_model.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/view/dashboard.dart';
+import 'package:pullman_mobile_app/housekeeper/controller/task_controller.dart';
 import 'package:provider/provider.dart';
 
 class TaskAssignedDetailScreen extends StatefulWidget {

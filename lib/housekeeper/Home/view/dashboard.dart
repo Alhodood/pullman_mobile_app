@@ -3,12 +3,12 @@ import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:pennisula_group/const/ui_utils/custom_colors.dart';
-import 'package:pennisula_group/const/ui_utils/ui_utils.dart';
-import 'package:pennisula_group/housekeeper/Home/view/account_view.dart';
-import 'package:pennisula_group/housekeeper/Home/view/inbox_view.dart';
-import 'package:pennisula_group/housekeeper/Home/view/over_view.dart';
-import 'package:pennisula_group/housekeeper/Home/view/task_view.dart';
+import 'package:pullman_mobile_app/const/ui_utils/custom_colors.dart';
+import 'package:pullman_mobile_app/const/ui_utils/ui_utils.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/view/account_view.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/view/inbox_view.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/view/over_view.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/view/task_view.dart';
 
 class DashboardView extends StatefulWidget {
   final int currentIndex;

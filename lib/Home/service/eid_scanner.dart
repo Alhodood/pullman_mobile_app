@@ -4,7 +4,7 @@ import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:google_ml_kit/google_ml_kit.dart';
 import 'package:intl/intl.dart';
-import 'package:pennisula_group/Home/model/emirate_id_model.dart';
+import 'package:pullman_mobile_app/Home/model/emirate_id_model.dart';
 import 'package:path/path.dart' as path;
 
 

@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:pennisula_group/const/space_helpper.dart';
+import 'package:pullman_mobile_app/const/space_helpper.dart';
 
 
 class CustomAppBarWidget extends StatelessWidget

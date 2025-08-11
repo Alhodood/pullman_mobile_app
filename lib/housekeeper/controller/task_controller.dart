@@ -6,11 +6,11 @@ import 'package:path/path.dart' as path;
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:pennisula_group/const/dailog_widgets.dart';
-import 'package:pennisula_group/housekeeper/Home/model/my_task_reposnse_model.dart';
-import 'package:pennisula_group/housekeeper/Home/model/task_model.dart';
-import 'package:pennisula_group/housekeeper/Home/view/detailed_screen.dart';
-import 'package:pennisula_group/housekeeper/service/teask_service.dart';
+import 'package:pullman_mobile_app/const/dailog_widgets.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/model/my_task_reposnse_model.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/model/task_model.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/view/detailed_screen.dart';
+import 'package:pullman_mobile_app/housekeeper/service/teask_service.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class TaskController  extends ChangeNotifier{

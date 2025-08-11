@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:pennisula_group/const/app_dimensions.dart';
+import 'package:pullman_mobile_app/const/app_dimensions.dart';
 
 class AppText {
   static TextStyle? btn;

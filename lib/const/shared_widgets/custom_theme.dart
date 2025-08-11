@@ -2,7 +2,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:pennisula_group/const/ui_utils/custom_colors.dart';
+import 'package:pullman_mobile_app/const/ui_utils/custom_colors.dart';
 
 /// light theme
 ThemeData customLightTheme(

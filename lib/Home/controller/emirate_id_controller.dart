@@ -5,11 +5,11 @@ import 'dart:io';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:pennisula_group/Home/model/emirate_id_model.dart';
-import 'package:pennisula_group/Home/screen/home_screen.dart';
-import 'package:pennisula_group/Home/service/eid_scanner.dart';
-import 'package:pennisula_group/const/dailog_widgets.dart';
-import 'package:pennisula_group/const/router/routes.dart';
+import 'package:pullman_mobile_app/Home/model/emirate_id_model.dart';
+import 'package:pullman_mobile_app/Home/screen/home_screen.dart';
+import 'package:pullman_mobile_app/Home/service/eid_scanner.dart';
+import 'package:pullman_mobile_app/const/dailog_widgets.dart';
+import 'package:pullman_mobile_app/const/router/routes.dart';
 import 'package:provider/provider.dart';
 
 class EIDScannerProvider extends ChangeNotifier {

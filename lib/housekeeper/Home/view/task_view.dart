@@ -9,13 +9,13 @@ import 'package:flutter_image_stack/flutter_image_stack.dart';
 // import 'package:get_it/get_it.dart';
 import 'package:intl/intl.dart';
 // import 'package:modal_bottom_sheet/modal_bottom_sheet.dart';
-import 'package:pennisula_group/const/shared_widgets/custom_appbar_widget.dart';
-import 'package:pennisula_group/const/shared_widgets/custom_checkbox_widget.dart';
-import 'package:pennisula_group/const/shared_widgets/empty_widget.dart';
-import 'package:pennisula_group/const/ui_utils/custom_colors.dart';
-import 'package:pennisula_group/const/ui_utils/ui_utils.dart';
-import 'package:pennisula_group/housekeeper/Home/model/task_model.dart';
-import 'package:pennisula_group/housekeeper/controller/task_controller.dart';
+import 'package:pullman_mobile_app/const/shared_widgets/custom_appbar_widget.dart';
+import 'package:pullman_mobile_app/const/shared_widgets/custom_checkbox_widget.dart';
+import 'package:pullman_mobile_app/const/shared_widgets/empty_widget.dart';
+import 'package:pullman_mobile_app/const/ui_utils/custom_colors.dart';
+import 'package:pullman_mobile_app/const/ui_utils/ui_utils.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/model/task_model.dart';
+import 'package:pullman_mobile_app/housekeeper/controller/task_controller.dart';
 
 class TaskView extends StatefulWidget {
   const TaskView({super.key});

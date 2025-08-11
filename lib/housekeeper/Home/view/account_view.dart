@@ -1,15 +1,15 @@
 import 'dart:io';
 import 'dart:math';
-import 'package:pennisula_group/authentication/view/login_screen.dart';
-import 'package:pennisula_group/const/router/routes.dart';
+import 'package:pullman_mobile_app/authentication/view/login_screen.dart';
+import 'package:pullman_mobile_app/const/router/routes.dart';
 import 'package:textfield_tags/textfield_tags.dart';
 
 import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/material.dart';
-import 'package:pennisula_group/const/ui_utils/custom_colors.dart';
+import 'package:pullman_mobile_app/const/ui_utils/custom_colors.dart';
 import 'package:flutter_font_icons/flutter_font_icons.dart';
 
-import 'package:pennisula_group/housekeeper/Home/model/task_model.dart';
+import 'package:pullman_mobile_app/housekeeper/Home/model/task_model.dart';
 
 class AccountView extends StatefulWidget {
    AccountView({super.key});
